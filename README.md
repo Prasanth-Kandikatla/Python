@@ -1,0 +1,1 @@
+Welcome to my Python practice repository! This project is dedicated to building a solid understanding of Python programming from the ground up. Whether you're a beginner or revisiting the basics, this repository documents my learning journey with clear examples, exercises, and explanations.
