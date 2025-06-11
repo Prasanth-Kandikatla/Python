@@ -1,0 +1,31 @@
+CHange DIrectory
+List Directory
+Create a Directory(create a folder on the desktop)
+create intermediate level directories
+Remove a directory
+Remove intermediate level directories
+Rename
+Print out all information about a particular file os.stat()
+check for size and timestamp
+See the directory tree(walk)
+
+Environment variables
+
+os.path 
+
+
+
+
+
+Linux:
+
+pwd
+cd
+ls
+ls -l (long list)
+ls -a (hidden files)
+
+mkdir
+rmdir
+cp
+mv
